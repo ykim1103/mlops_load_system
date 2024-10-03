@@ -22,4 +22,4 @@
 ![데이터정의서](https://github.com/user-attachments/assets/91fd25ed-7569-40dc-8fc5-fb006f4a4bab)
 
 #### 가공 후 학습에 활용할 최종 데이터셋 구성
-![가공데이터](https://github.com/user-attachments/assets/0661487f-d0f1-45e5-8821-903b669d2645)
+![가공데이터](https://github.com/user-attachments/assets/fd06541a-78a4-4ba6-9ad2-45b1d35a50b5)
